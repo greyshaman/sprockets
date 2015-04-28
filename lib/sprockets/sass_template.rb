@@ -1,3 +1,4 @@
+require 'sass/engine'
 require 'tilt'
 
 module Sprockets

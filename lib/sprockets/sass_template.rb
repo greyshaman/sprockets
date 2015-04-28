@@ -1,6 +1,6 @@
-require 'sass'
-# require 'sass/engine'
 require 'tilt'
+require 'sass'
+require 'sass/engine'
 
 module Sprockets
   # This custom Tilt handler replaces the one built into Tilt. The

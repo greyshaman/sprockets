@@ -1,5 +1,5 @@
-require 'sass'
-require 'sass/engine'
+# require 'sass'
+# require 'sass/engine'
 require 'tilt'
 
 module Sprockets

@@ -1,4 +1,4 @@
-# require 'sass'
+require 'sass'
 # require 'sass/engine'
 require 'tilt'
 
